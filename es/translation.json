@@ -3,12 +3,13 @@
     "NOT_FOUND": "No hay registros",
     "PIN_REQUIRED":"El PIN es requerido",
 	"PIN_ID_UNIQUE":"El ID y PIN deben ser únicos",
-	"EMAIL_UNIQUE":"Email already exists",
+	"EMAIL_UNIQUE":"Este correo ya existe",
 	"UPDATED":"Registro actualizado",
 	"CREATED":"Registro creado",
 	"UNAUTHORIZED":"Usuario o Contraseña incorrecto",
 	"SUBJECT_RECOVERY_PASS":"Recuperación de contraseña - www.salvameid.com",
 	"SENT_EMAIL":"Correo enviado correctamente",
 	"ERROR_EMAIL":"Se ha producido un error al enviar el correo. Intente nuevamente",
-	"CHANGE_PASSWORD_SUCCESS":"Cambio de contraseña exitoso"
+	"CHANGE_PASSWORD_SUCCESS":"Cambio de contraseña exitoso",
+	"USER_NOT_FOUND":"Usuario no encontrado"
 }
