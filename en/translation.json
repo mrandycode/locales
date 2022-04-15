@@ -1,7 +1,7 @@
 {
-    "GET_SUCCESS": "Get success",
-    "NOT_FOUND": "Not records found",
-    "PIN_REQUIRED":"PIN is required",
+	"GET_SUCCESS":"Get success",
+	"NOT_FOUND":"Not records found",
+	"PIN_REQUIRED":"PIN is required",
 	"PIN_ID_UNIQUE":"PIN and ID must be unique",
 	"EMAIL_UNIQUE":"PIN and ID must be unique",
 	"UPDATED":"Updated successfully",
@@ -12,4 +12,4 @@
 	"ERROR_EMAIL":"There was an error sending the mail. Try again",
 	"CHANGE_PASSWORD_SUCCESS":"Successful password change",
 	"USER_NOT_FOUND":"User not found"
-}
+ }
