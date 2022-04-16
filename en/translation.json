@@ -11,5 +11,6 @@
 	"SENT_EMAIL":"Email sent successfully",
 	"ERROR_EMAIL":"There was an error sending the mail. Try again",
 	"CHANGE_PASSWORD_SUCCESS":"Successful password change",
-	"USER_NOT_FOUND":"User not found"
+	"USER_NOT_FOUND":"User not found",
+	"UPLOAD_IMAGE_SUCCESS":"Image uploaded successfully"
  }

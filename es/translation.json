@@ -11,5 +11,6 @@
 	"SENT_EMAIL":"Correo enviado correctamente",
 	"ERROR_EMAIL":"Se ha producido un error al enviar el correo. Intente nuevamente",
 	"CHANGE_PASSWORD_SUCCESS":"Cambio de contraseña exitoso",
-	"USER_NOT_FOUND":"Usuario no encontrado"
+	"USER_NOT_FOUND":"Usuario no encontrado",
+	"UPLOAD_IMAGE_SUCCESS":"Imagen subida con éxito"
  }
