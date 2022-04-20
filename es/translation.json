@@ -6,6 +6,7 @@
 	"EMAIL_UNIQUE":"Este correo ya existe",
 	"UPDATED":"Registro actualizado",
 	"CREATED":"Registro creado",
+	"CREATED_PROFILE":"Perfil creado, puede completar todos los datos",
 	"UNAUTHORIZED":"Usuario o Contraseña incorrecto",
 	"SUBJECT_RECOVERY_PASS":"Recuperación de contraseña - www.salvameid.com",
 	"SENT_EMAIL":"Correo enviado correctamente",

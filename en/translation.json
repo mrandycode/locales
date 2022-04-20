@@ -6,6 +6,7 @@
 	"EMAIL_UNIQUE":"PIN and ID must be unique",
 	"UPDATED":"Updated successfully",
 	"CREATED":"Created successfully",
+	"CREATED_PROFILE":"Profile created, you can fill in all the data",
 	"UNAUTHORIZED":"Wrong User or Password",
 	"SUBJECT_RECOVERY_PASS":"Password recovery - www.salvameid.com",
 	"SENT_EMAIL":"Email sent successfully",
