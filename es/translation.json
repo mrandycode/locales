@@ -3,7 +3,7 @@
 	"NOT_FOUND":"No hay registros",
 	"PIN_REQUIRED":"El PIN es requerido",
 	"PIN_ID_UNIQUE":"El ID y PIN deben ser únicos",
-	"EMAIL_UNIQUE":"Este correo ya existe",
+	"EMAIL_UNIQUE":"El correo suministrado ya esta en uso",
 	"UPDATED":"Registro actualizado",
 	"CREATED":"Registro creado",
 	"CREATED_PROFILE":"Perfil creado, puede completar todos los datos",
