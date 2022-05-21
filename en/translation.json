@@ -15,5 +15,7 @@
   "USER_NOT_FOUND": "User not found",
   "UPLOAD_IMAGE_SUCCESS": "Image uploaded successfully",
   "PROFILE_NOT_FOUND": "Profile not found",
-  "DELETED": "Record deleted successfully"
+  "DELETED": "Record deleted successfully",
+  "TOKEN_EXPIRED": "Token expired",
+  "SCAN_ME": "🚨 Alert, a profile has been scanned - www.salvameid.com"
 }

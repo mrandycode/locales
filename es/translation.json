@@ -15,5 +15,7 @@
 	"USER_NOT_FOUND":"Usuario no encontrado",
 	"UPLOAD_IMAGE_SUCCESS":"Imagen subida con éxito",
 	"PROFILE_NOT_FOUND": "No se encuentra el perfil indicado",
-	"DELETED": "Registro eliminado con éxito"
+	"DELETED": "Registro eliminado con éxito",
+	"TOKEN_EXPIRED": "Token expirado",
+	"SCAN_ME": "🚨 Alerta, se ha escaneado un perfil - www.salvameid.com"
  }
